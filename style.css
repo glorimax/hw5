@@ -1,0 +1,249 @@
+@font-face {
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Hind Siliguri'),
+        url('./hind-siliguri-v12-latin-regular.woff2') format('woff2'),
+        url('./hind-siliguri-v12-latin-regular.woff') format('woff'),
+        url('./hind-siliguri-v12-latin-regular.ttf') format('ttf'),
+        url('./hind-siliguri-v12-latin-regular.eot') format('eot');
+}
+.nav{
+    width: 1600px ;
+    height: 90px ;
+    display: inline-block;
+}
+.logo {
+    width: 106px;
+    height: 26.66px;
+    display: inline-block;
+    margin: 31.83px 0px 0px 230px;
+}
+.home {
+    width: 55px;
+    height: 23px;
+    display: inline-block;
+    font-family: 'Hind Siliguri';
+    margin-left: 177px;
+}
+.v1b{
+    width: 8px;
+    height: 4px;
+    display: inline-block;
+}
+.about {
+    width: 44px;
+    height: 23px;
+    display: inline-block;
+    font-family: 'Hind Siliguri';
+    margin-left: 40px;
+}
+.v2b{
+    width: 8px;
+    height: 4px;
+    display: inline-block;
+}
+.product {
+    width:60px ;
+    height: 23px;
+    display: inline-block;
+    font-family: 'Hind Siliguri';
+    margin-left: 40px;
+}
+.v3b{
+    width: 8px;
+    height: 4px;
+    display: inline-block;
+}
+.blog {
+    width: 35px;
+    height: 23px;
+    display: inline-block;
+    font-family: 'Hind Siliguri';
+    margin-left: 40px;
+}
+.v4b{
+    width: 8px;
+    height: 4px;
+    display: inline-block;
+}
+.shop {
+    width: 35px;
+    height: 23px;
+    display: inline-block;
+    font-family: 'Hind Siliguri';
+    margin-left: 40px;
+}
+.v5b{
+    width: 8px;
+    height: 4px;
+    display: inline-block;
+}
+.contact_us{
+    width: 80px;
+    height: 23px;
+    display: inline-block;
+    font-family: 'Hind Siliguri';
+    margin-left: 40px;
+}
+.pic1{
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-left: 157px;
+}
+.pic2{
+    width: 22px;
+    height: 20.27px;
+    display: inline-block;
+    margin-left: 31.78px;
+}
+.pic3{
+    width: 35px;
+    height: 35px;
+    margin: -31px 0px 0px 1370px;
+}
+.page1{
+    width: 1236px;
+    height: 811px;
+    margin: auto;
+}
+.fb{
+    width: 166px;
+    height: 26px;
+    margin-top: 129px;
+}
+.fbtxt{
+    font-family: 'Hind Siliguri';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.145em;
+    text-transform: uppercase;
+    color: #C72535;
+    opacity: 0.6;
+}
+.am{
+    width: 555px;
+    height: 220px;
+    margin-top: -65px;
+}
+.amtxt0{
+    width: 448px;
+    font-family: 'Hind Siliguri';
+    font-weight: 600;
+    font-size: 61px;
+    line-height: 73px;
+    color: #247CC0;
+    background-color: #247cc060;
+}
+.amtxt{
+    margin-top: -55px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 61px;
+    line-height: 73px;
+}
+.lorem{
+    width:515px ;
+    height: 54px;
+}
+.loremtxt{
+    margin-top: 29px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #030D15;
+    opacity: 0.6;
+}
+.btnsn{
+    width: 151px;
+    height: 58px;
+    margin-top: 36px;
+    display: inline-block;
+}
+.sn{
+    width: 151px;
+    height: 58px;
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #247CC0;
+}
+.p1{
+    width: 71px;
+    height: 27px;
+    display: inline-block;
+    margin-left: 31px;
+}
+.p1txt{
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #030D15;
+}
+.p2{
+    width: 60px;
+    height: 27px;
+    display: inline-block;
+    margin-left: 18px;
+}
+.p2txt{
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 27px;
+    text-align: center;
+    text-decoration-line: line-through;
+    color: #030D15;
+    opacity: 0.5;
+}
+.momiso{
+    width: 643px;
+    height: 611px;
+    margin: -492px 0px 0px 580px;
+}
+.logoblock{
+    width: 1140px;
+    height: 237px;
+    display: inline-block;
+    background: #FFFFFF;
+    box-shadow: 0px 100px 80px rgba(174, 174, 174, 0.08), 0px 43.751px 36.4414px rgba(174, 174, 174, 0.0575083), 0px 19.8401px 19.1406px rgba(174, 174, 174, 0.0476886), 0px 6.77214px 9.61331px rgba(174, 174, 174, 0.04), 0px 0.190079px 4.14347px rgba(174, 174, 174, 0.0323114), 0px -1.73968px 1.20532px rgba(174, 174, 174, 0.0224916);
+    border-radius: 0px;
+    margin-top: -60px;
+}
+.logo1{
+    width: 163px;
+    height: 85px;
+    display: inline-block;
+    margin: 76px 0px 0px 118px;
+}
+.logo2{
+    width: 163px;
+    height: 85px;
+    display: inline-block;
+    margin-left: 84px;
+}
+.logo3{
+    width: 163px;
+    height: 85px;
+    display: inline-block;
+    margin-left: 84px;
+}
+.logo4{
+    width: 163px;
+    height: 85px;
+    display: inline-block;
+    margin-left: 84px;
+}
